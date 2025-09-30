@@ -4,7 +4,7 @@
 
 
 
-<h2> Embedded Systems Projects:</h2>
+<h2>🤖 Embedded Systems Projects:</h2>
 
 <h2>📺 Videos</h2>
 
