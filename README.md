@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <a href="https://github.com/harethbyr/LinuxBasics-TextManipulationTechniques">Linux Basics and Text Manipulation Techniques</a>
+<a href="https://github.com/harethbyr/Uncomplicated-Firewall-Configuration">Uncomplicated Firewall Configuration</a>
 
 
 
