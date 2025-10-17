@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alhareth! <br/><a href="https://github.com/harethbyr"></a> <a href="https://www.linkedin.com/in/alhareth-al-byrooty-430716372/">Aspiring Cyber Security and Embedded Professional</a>
+<h1>Hi, I'm Alhareth! <br/><a href="https://github.com/harethbyr"></a> <a href="https://www.linkedin.com/in/alhareth-al-byrooty-430716372/">Aspiring Firmware Security Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <div>
