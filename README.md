@@ -11,7 +11,7 @@
 
 
 
-<h2>📺 Videos and Photos</h2>
+<h2>📺 Videos and Photos:</h2>
 
 
 
